@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is an **AI-powered code quality reviewer** designed to analyze Java repositories (even when changes are pushed directly without a Pull/Merge Request).
+This project is an **AI-powered code quality reviewer** designed to analyze Java repositories.
 
 It evaluates the overall **code quality and risk level** and classifies it into:
 
