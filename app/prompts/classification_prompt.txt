@@ -1,0 +1,10 @@
+Based on the analysis below, classify the overall code quality risk:
+
+LOW    → Code is acceptable
+MEDIUM → Needs refactoring
+HIGH   → Major design or security issues
+
+Return ONLY one word: LOW, MEDIUM, or HIGH.
+
+Analysis:
+{analysis}

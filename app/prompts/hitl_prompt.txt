@@ -1,0 +1,10 @@
+The developer has provided additional context explaining why the code
+was written this way.
+
+Developer Intent:
+{intent}
+
+Re-evaluate the code analysis:
+- Do NOT penalize intentional trade-offs
+- Focus only on real risks
+- Update conclusions if intent justifies the design

@@ -1,0 +1,17 @@
+You are a senior backend engineer.
+
+Analyze the following Java code.
+Focus on:
+- Design quality
+- Microservice boundaries
+- Transaction consistency
+- Security risks
+- Refactoring opportunities
+
+Context:
+{context}
+
+Code:
+{code}
+
+Provide a structured technical analysis.
