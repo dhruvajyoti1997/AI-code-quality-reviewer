@@ -225,7 +225,5 @@ This project is intentionally designed to be:
 > **LangGraph enforces policy, LlamaIndex provides context, LLMs reason, and humans provide intent.**
 
 ---
+<img width="1335" height="772" alt="architecture-diagram" src="https://github.com/user-attachments/assets/e4cb4bf6-aaaa-48b8-8729-5e63bbd5bd06" />
 
-## 📄 License
-
-MIT License
