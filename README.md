@@ -157,7 +157,7 @@ OPENAI_API_KEY=your-openai-key
 GITHUB_OWNER=your-github-username
 GITHUB_REPO=your-repo-name
 GITHUB_BRANCH=main
-GITHUB_TOKEN=ghp_xxxxxx   # Optional (required for private repos)
+GITHUB_TOKEN=ghp_xxxxxx
 ```
 
 ---
