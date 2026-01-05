@@ -1,4 +1,4 @@
-# AI Code Quality Reviewer (LangGraph + LlamaIndex + HITL)
+# AI Code Quality Reviewer
 
 ## 📌 Overview
 
